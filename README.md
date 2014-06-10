@@ -1,4 +1,14 @@
 Grunt Static website Boilerplate
 ================================
 
-Static website Boilerplate with Grunt (SASS, CoffeeScript, jade)
+Static website Boilerplate with Grunt ([Sass](http://sass-lang.com/), [CoffeeScript](http://coffeescript.org/), [jade](http://jade-lang.com/))
+
+
+### Start developing
+
+1. npm install
+2. grunt dev //or simple grunt
+
+Now start changin .sass, .coffee or .jade files and save.
+Relavent css, js and html files will get generated automatically.
+
