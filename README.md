@@ -11,11 +11,11 @@ Static website Boilerplate with [Grunt](http://gruntjs.com/) ([Sass](http://sass
     'grunt prod'
     'grunt dev' or 'grunt' for development
 
-Now start changin .sass, .coffee or .jade files and save.
+Now start changin `.sass`, `.coffee` or `.jade` files and save.
 Relavent css, js and html files will get generated automatically.
 
 ###### Add New HTML files
-Create .jade file (ex: services.jade) in './jade' folder and add like following code for compile in file Gruntfile.js 
+Create `.jade` file (ex: services.jade) in `./jade` folder and add like following code for compile in file `Gruntfile.js` 
 
     jade: {
         ....
@@ -25,3 +25,8 @@ Create .jade file (ex: services.jade) in './jade' folder and add like following 
         }
         ....
     }
+
+
+###### Dependencies
+1. [Node.js](http://nodejs.org/)
+  1. [Grunt-cli](https://www.npmjs.org/package/grunt-cli) - `npm install -g grunt-cli`
