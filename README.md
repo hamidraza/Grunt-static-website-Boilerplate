@@ -1,4 +1,4 @@
-Grunt-static-website-Boilerplate
+Grunt Static website Boilerplate
 ================================
 
 Static website Boilerplate with Grunt (SASS, CoffeeScript, jade)
