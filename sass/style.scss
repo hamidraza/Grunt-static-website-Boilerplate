@@ -1,0 +1,25 @@
+@import'reset';
+
+$font-stack:'Open Sans', arial, Helvetica, sans-serif;
+$orange-color: #c75c28;
+$orange-light-color: #d37f56;
+
+body {
+  font-family: $font-stack;
+  font-size: 12px;
+  color: #333;
+}
+a {
+  text-decoration: none;
+}
+.fleft {
+  float: left;
+}
+.fright {
+  float: right;
+}
+.wrap {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
