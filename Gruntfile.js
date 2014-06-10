@@ -24,7 +24,7 @@ module.exports = function(grunt) {
           sourceMap: true
         },
         files: {
-          'js/pack.min.js': ['js/lib/jquery.js', 'js/script.js']
+          'js/pack.min.js': ['js/script.js']
         }
       }
     },
